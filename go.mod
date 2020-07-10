@@ -21,3 +21,5 @@ require (
 	gopkg.in/yaml.v2 v2.2.7
 	jdel.org/go-syno v0.3.2
 )
+
+replace jdel.org/go-syno v0.3.2 => github.com/kastelo-labs/go-syno v0.3.2-0.20200710200058-3c2c23dfb0f0
